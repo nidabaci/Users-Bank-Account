@@ -17,11 +17,6 @@ Username of the second user is 'jd' and the PIN is '2222'
   * HTML
   * CSS
   * JavaScript
-
-## Authors
-
-  - **Jonida Baçi**
-    [NidaBaci](https://nidabaci.github.com/)
     
 ## Acknowledgments
 
